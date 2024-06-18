@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<TcSmProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.beckhoff.com/schemas/2012/07/TcSmProject" TcSmVersion="1.0" TcVersion="3.1.4026.5">
+	<Project ProjectGUID="{8C88B868-6D64-4885-8C71-E26737A5557C}" ShowHideConfigurations="#x6">
+		<System>
+			<AdditionalProjectFiles>
+				<File>..\library-descriptor\nepionic.libcat.xml</File>
+			</AdditionalProjectFiles>
+		</System>
+		<Plc>
+			<Project File="nepionic-cyclic.xti"/>
+		</Plc>
+	</Project>
+</TcSmProject>
