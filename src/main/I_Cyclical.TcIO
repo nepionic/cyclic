@@ -1,6 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<TcPlcObject Version="1.1.0.1">
-  <Itf Name="I_Cyclical" Id="{29724a98-39fb-49ef-8269-a4963832a6e1}">
-    <Declaration><![CDATA[INTERFACE PUBLIC I_Cyclical EXTENDS __System.IQueryInterface]]></Declaration>
-  </Itf>
-</TcPlcObject>
